@@ -1,4 +1,4 @@
-# Realme NEO 8 u9 OrangeFox device tree
+# Realme NEO8 u9 OrangeFox device tree
 
 # How To Build
 
@@ -13,9 +13,9 @@ cd sync
 ### Clone Device-tree
 ```
 cd ~/android/fox_14.1/device
-mkdir -p oneplus
+mkdir -p realme
 cd oneplus
-git clone https://github.com/koaaN/android_device_oneplus_u9-orangefox u9
+git clone https://github.com/koaaN/android_device_realme_u9-orangefox u9
 ```
 ### BUILD!
 ```
