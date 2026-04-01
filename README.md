@@ -14,7 +14,7 @@ cd sync
 ```
 cd ~/android/fox_14.1/device
 mkdir -p realme
-cd oneplus
+cd realme
 git clone https://github.com/koaaN/android_device_realme_u9-orangefox u9
 ```
 ### BUILD!
